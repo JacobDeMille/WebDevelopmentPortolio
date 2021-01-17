@@ -1,22 +1,7 @@
-const links = [{
-    label: "Week 01 Notes",
-    url: "W01/"
-},
+const links = [
 {
     label: "Quiz Ninja Project",
     url: "quizninja/"
-}, 
-{
-    label: "Local Storage Exercise",
-    url: "local-storage/"
-},
-{
-    label: "Week 02 Notes",
-    url: "W02/"
-}, 
-{
-    label: "Week 2 Team Activity",
-    url: "W02/w02-team-activity.html"
 },
 {
     label: "Drum Kit Exercises from JavaScript30",
